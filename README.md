@@ -12,4 +12,4 @@ pip install pyngrok
 ```
 ### Bước 2: Thay thế các giá trị YOUR_CLOUD_ID, YOUR_API_KEY, YOUR_DATA_FILE_PATH bằng giá trị thực tế.
 
-### Bước 2: Thực hiện tuần tự các quy trình trong tệp lawVN_Q&A.ipynb.
+### Bước 3: Thực hiện tuần tự các quy trình trong tệp lawVN_Q&A.ipynb.
