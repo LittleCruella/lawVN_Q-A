@@ -1,15 +1,16 @@
 # lawVN_Q-A
 
-## Hệ thống hỏi đáp pháp luật Việt Nam dựa trên bộ dữ liệu pháp điển
+## Vietnamese law question and answer system based on legal data set
 
-## Các bước thực hiện:
+## Steps:
 
-### Bước 1: Cài đặt các thư viện cần thiết
+### Step 1: Install necessary libraries
 ```bash
 pip install elasticsearch
 pip install streamlit
 pip install pyngrok
 ```
-### Bước 2: Thay thế các giá trị YOUR_CLOUD_ID, YOUR_API_KEY, YOUR_DATA_FILE_PATH bằng giá trị thực tế.
+### Step 2: Replace the YOUR_CLOUD_ID, YOUR_API_KEY, YOUR_DATA_FILE_PATH values ​​with the actual values.
 
-### Bước 3: Thực hiện tuần tự các quy trình trong tệp lawVN_Q&A.ipynb.
+### Step 3: Execute the processes sequentially in the file lawVN_Q&A.ipynb.
+
